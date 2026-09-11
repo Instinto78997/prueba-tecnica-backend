@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "inventory.service.url",
+      "type": "java.lang.String",
+      "description": "URL base del servicio de inventario."
+    }
+  ]
+}
